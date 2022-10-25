@@ -1,4 +1,4 @@
-- 👋 Hola! Soy Dario Lacuesta,tengo 31 años y soy de Argentina :argentina:
+- 👋 Hola! Soy Dario Lacuesta,tengo 33 años y soy de Argentina :argentina:
 - :man_technologist: Estoy interesado en el Desarrollo Web Frontend,en seguir creciendo y aprendiendo cosas nuevas  día a día 
 - :books: Actualmente estoy capacitandome  en varias tecnologias..Angular,React, SASS, LESS y varias cosas mas :desktop_computer:
 - :suspect: Que encontraras acá? Algunos de los proyectos que hice para ejercitar lo aprendido. Algunos están inconclusos o falta perfeccionarlos, simplemente son proyectos para practicar o para la entrega en algunos de los cursos que estoy realizando
