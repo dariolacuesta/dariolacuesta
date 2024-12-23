@@ -1,8 +1,8 @@
-- 👋 Hola! Soy Dario Lacuesta,tengo 33 años y soy de Argentina :argentina:
-- :man_technologist: Estoy interesado en el Desarrollo Web Frontend,en seguir creciendo y aprendiendo cosas nuevas  día a día 
-- :books: Actualmente estoy capacitandome  en varias tecnologias..Angular,React, SASS, LESS y varias cosas mas :desktop_computer:
-- :suspect: ¿Que encontrarás acá? Algunos de los proyectos que hice para ejercitar lo aprendido. Algunos están inconclusos o falta perfeccionarlos, simplemente son proyectos para practicar o para la entrega en algunos de los cursos que estoy realizando
-- 📫 ¿Como contactarme? Mi perfil de Linkedin es https://www.linkedin.com/in/rdlacuesta/ y mi mail dario.lacuesta@hotmail.com :email:
+- 👋 Hello! I'm Dario Lacuesta, I'm 35 years old, and I'm from Argentina  :argentina:
+- :man_technologist: I'm interested in Fullstack Development, continuously growing, and learning new things every day.
+- :books: I'm currently training in various technologies, such as Angular, React, SASS, LESS, Next.js , .Net, Node JS and many more :desktop_computer:
+- :suspect:: What will you find here? Some of the projects I created to practice what I've learned. Some are incomplete or need refinement; they are simply projects for practice or assignments for some of the courses I'm taking.
+- 📫 How to contact me? My LinkedIn profile is https://www.linkedin.com/in/rdlacuesta/
 
 <!---
 dariolacuesta/dariolacuesta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
